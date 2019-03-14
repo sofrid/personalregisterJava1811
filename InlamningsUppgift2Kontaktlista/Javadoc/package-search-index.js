@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"com.example.inlamningsuppgift2kontaktlista"}]
